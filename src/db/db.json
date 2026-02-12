@@ -1,0 +1,88 @@
+{
+  "jugadores": [
+    {
+      "id": "3",
+      "name": "LUCHO",
+      "email": "LUCIHTO@MAIL.COM",
+      "role": "Arquero"
+    },
+    {
+      "id": "89fbde4c-2605-4955-9e0f-fc4113adc83c",
+      "name": "maicol",
+      "email": "messi@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "296f73a3-c698-4bb6-94dc-fb6261019545",
+      "name": "felipe",
+      "email": "marques@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "7347dfe6-28f0-4347-b707-d63d230b0631",
+      "name": "jose",
+      "email": "marques@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "757a194f-ee45-4d6d-898e-acb1a1c1b955",
+      "name": "martin",
+      "email": "marques@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "30a2df8c-ab35-452b-a72b-580618df84bf",
+      "name": "martin",
+      "email": "marques@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "369985a3-d992-4aee-b56a-15f77c4abc2e",
+      "name": "amanda",
+      "email": "amanda@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "ed0c0ac3-2f6a-43b7-84ea-610c0b77f07d",
+      "name": "amanda",
+      "email": "amanda@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "7c215818-3f5e-4bbf-a0ff-db3c255e2ea6",
+      "name": "amanditaaa",
+      "email": "amanda@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "eea8b459-7f4f-4abe-8fba-22b20272bad6",
+      "name": "amanda",
+      "email": "amanda@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "d64a8ec4-4952-4c0c-a335-ca0201e28469",
+      "name": "amanda",
+      "email": "amanda@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "ff87d15e-138f-4ba1-8fee-6f7fefddab35",
+      "name": "amanda",
+      "email": "amanda@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "710f25e3-6cd8-4c73-b0c8-5ca12ce96f25",
+      "name": "amanda",
+      "email": "amanda@mail.com",
+      "role": "extremo izq"
+    },
+    {
+      "id": "3af79161-a1dd-4630-ada5-f7074796daaf",
+      "name": "YERKO",
+      "email": "YERKO@MAIL.COM",
+      "role": "Mediocampo"
+    }
+  ]
+}
